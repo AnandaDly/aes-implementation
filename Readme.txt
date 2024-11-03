@@ -19,7 +19,7 @@ Aplikasi ini adalah implementasi sederhana dari algoritma enkripsi dan dekripsi 
 
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/<username>/simple-rsa-streamlit.git
+   git clone https://github.com/AnandaDly/aes-implementation.git
 
 2. cd simple-rsa-streamlit
 
