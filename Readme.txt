@@ -21,7 +21,7 @@ Aplikasi ini adalah implementasi sederhana dari algoritma enkripsi dan dekripsi 
    ```bash
    git clone https://github.com/AnandaDly/aes-implementation.git
 
-2. cd simple-rsa-streamlit
+2. cd aes-implementation
 
 3. pip install -r requirements.txt
 
